@@ -12,7 +12,7 @@ from email.mime.text import MIMEText
 to = u"MusicBrainz Developer Discussion <musicbrainz-devel@lists.musicbrainz.org>"
 sender = "Statler & Waldorf <noreply@musicbrainz.org>"
 subject_template = u"Dev chat reminder, issue %s"
-msg_template = u'''We've got our weekly dev chat on %s on IRC in #musicbrainz-devel on irc.freenode.net . We're going to meet at %s.
+msg_template = u'''We've got our weekly dev chat on %s on IRC in #musicbrainz-devel on irc.freenode.net. We're going to meet at %s.
 
 %sIf there is any topic you would like to discuss during the meeting, please add it to the agenda in the channel topic.
 
